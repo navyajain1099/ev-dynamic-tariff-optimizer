@@ -6,6 +6,7 @@ venv/
 ev_env/
 outputs/manual-ev-deck/
 outputs/*/presentations/
+scripts/
 
 # Notebook backup scripts are kept locally, but the submission uses .ipynb files.
 notebooks/*.py
@@ -20,5 +21,6 @@ outputs/dynamic_tariffs_urbanev.csv
 # Temporary or old presentation build files.
 presentation/artifact-build-manifest.json
 presentation/ev-charging-analytics-dynamic-pricing.pptx
+presentation/ev-dynamic-tariff-optimization-submission.pptx
 presentation/ev-dynamic-tariff-optimization-submission.pdf
 presentation/~$*.pptx
