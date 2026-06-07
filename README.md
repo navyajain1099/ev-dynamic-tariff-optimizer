@@ -101,7 +101,7 @@ The most useful output files are:
 
 Large generated files such as `demand_predictions.csv`, `dynamic_tariffs_urbanev.csv`, `dynamic_tariffs_acn.csv`, and the trained model `.pkl` are intentionally ignored for GitHub. They are recreated by running the notebooks.
 
-## Assumptions and Limitations
+## Assumptions 
 
 - Waiting time is not directly observed, so high-utilization UrbanEV periods are used as a queue/waiting-time proxy.
 - Customer response is simulated using a conservative price elasticity assumption of `-0.30`.
