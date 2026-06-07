@@ -1,0 +1,10 @@
+Metric,Value
+Baseline Revenue (USD),"$40,338.53"
+Dynamic Revenue (USD),"$42,201.63"
+Revenue Gain (USD),"$1,863.10"
+Revenue Gain %,+4.62%
+Surge Sessions % (ACN),0.0%
+Discount Sessions % (ACN),22.3%
+Off-Peak Uplift % (UrbanEV),+2.7%
+Avg Utilization Change (UrbanEV pp),+0.05 pp
+Price Elasticity Assumption,"-0.30 (conservative, from EV charging literature)"

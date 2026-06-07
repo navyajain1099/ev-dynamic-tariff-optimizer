@@ -1,0 +1,4 @@
+Scenario,Revenue_USD,Revenue_Gain_Pct,Avg_Utilization,Off_Peak_Uplift
+Flat Baseline,"$40,338.53",0.00%,29.1%,baseline
+Dynamic Pricing,"$42,201.63",+4.62%,29.1%,+2.7%
+Improvement,"+$1,863.10",+4.62%,+0.05 pp,+2.7%

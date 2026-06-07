@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+ev_env/
+outputs/manual-ev-deck/
+outputs/*/presentations/
+
+# Notebook backup scripts are kept locally, but the submission uses .ipynb files.
+notebooks/*.py
+
+# Large/generated files recreated by running the notebooks.
+data/processed/
+outputs/best_demand_model.pkl
+outputs/demand_predictions.csv
+outputs/dynamic_tariffs_acn.csv
+outputs/dynamic_tariffs_urbanev.csv
+
+# Temporary or old presentation build files.
+presentation/artifact-build-manifest.json
+presentation/ev-charging-analytics-dynamic-pricing.pptx
+presentation/ev-dynamic-tariff-optimization-submission.pdf
+presentation/~$*.pptx

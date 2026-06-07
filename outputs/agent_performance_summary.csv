@@ -1,0 +1,24 @@
+Metric,Value,Dataset_Note
+Best Demand Prediction Model,Random Forest,UrbanEV (training)
+RMSE (Random Forest),0.0542,UrbanEV
+MAE (Random Forest),0.0315,UrbanEV
+R2 Score (Random Forest),0.9060,UrbanEV
+"Revenue Gain % -- Episode 1 (ACN, USD, posted)",+5.55%,ACN (USD)
+"Revenue Gain % -- Episode 10 (ACN, USD, posted)",+6.11%,ACN (USD)
+Net Revenue Gain % -- Episode 10 (after elasticity),+4.09%,ACN + elasticity
+Revenue Gain % -- Flat comparison (Notebook 3),+4.62%,ACN (USD)
+"Off-Peak Uplift % (UrbanEV, Notebook 3)",+2.7%,UrbanEV (CNY)
+Avg Waiting Time Reduction % -- Episode 1,1.11%,UrbanEV congestion proxy
+Avg Waiting Time Reduction % -- Final Episode,2.03%,UrbanEV congestion proxy
+Customer Response Rate % -- Episode 1 (demand retained),98.3%,ACN + elasticity
+Customer Response Rate % -- Final Episode (demand retained),98.2%,ACN + elasticity
+Price Exposure Rate % -- Episode 1,79.3%,ACN dynamic tariff exposure
+Price Exposure Rate % -- Final Episode,73.9%,ACN dynamic tariff exposure
+Pricing Efficiency -- Baseline (USD/kWh),$0.3000,ACN (USD)
+Pricing Efficiency -- Final Episode (USD/kWh),$0.3181,ACN (USD)
+Final Surge Threshold,0.575,ACN (USD)
+Final Discount Threshold,0.100,ACN (USD)
+Number of Learning Episodes,10,-
+Price Elasticity Assumption,"-0.30 (conservative, EV charging literature)",-
+UrbanEV Baseline Peak Congestion (avg utilization),0.3446,UrbanEV
+UrbanEV Post-Pricing Peak Congestion (avg utilization),0.3376,UrbanEV

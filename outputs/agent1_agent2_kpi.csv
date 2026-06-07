@@ -1,0 +1,9 @@
+Agent,KPI,Value
+Agent 1 (Demand),RMSE,0.0542
+Agent 1 (Demand),MAE,0.0315
+Agent 1 (Demand),R2 Score,0.9060
+Agent 2 (Tariff),"Revenue Gain % (ACN, USD)",+4.62%
+Agent 2 (Tariff),Off-Peak Uplift % (UrbanEV),+2.7%
+Agent 2 (Tariff),Avg Utilization Change (UrbanEV),+0.05 pp
+Agent 2 (Tariff),UrbanEV Surge Threshold,80% (UrbanEV max util = 100%)
+Agent 2 (Tariff),ACN Surge Threshold (data-calibrated),65% (data-calibrated for ACN workplace peaks)

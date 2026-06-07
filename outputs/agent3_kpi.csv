@@ -1,0 +1,8 @@
+Agent,KPI,Value,Dataset
+Agent 3 (Monitoring),Avg Waiting Time Reduction % (Final Episode),2.03%,UrbanEV congestion proxy
+Agent 3 (Monitoring),"Customer Response Rate % (Final Episode, demand retained)",98.2%,ACN + demand elasticity
+Agent 3 (Monitoring),Price Exposure Rate % (Final Episode),73.9%,ACN dynamic tariff exposure
+Agent 3 (Monitoring),Pricing Efficiency Score - Final (USD/kWh),$0.3181,ACN (USD)
+Agent 3 (Monitoring),Net Revenue Gain % (Final Episode),+4.09%,ACN + demand elasticity
+Agent 3 (Monitoring),UrbanEV Baseline Peak Congestion,0.3446 (avg utilization),UrbanEV
+Agent 3 (Monitoring),UrbanEV Post-Pricing Peak Congestion,0.3376 (avg utilization),UrbanEV
